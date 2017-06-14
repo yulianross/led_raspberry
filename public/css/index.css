@@ -1,0 +1,9 @@
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+
+.centrado{
+  text-align: center; /* Texto centrado */
+  padding-top: 10em;
+
+}
